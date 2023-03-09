@@ -1,0 +1,38 @@
+.login-form{
+    background-color: rgb(19, 29, 26);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    
+}
+
+
+
+.form{
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+    gap:15px;
+    padding:4em ;
+    border-radius: 1em;
+    
+}
+
+.form>input{
+    padding: 15px;
+}
+
+.form>button{
+    padding:15px;
+}
+
+.form>span{
+    text-align: center;
+}
+
+.form>img{
+    max-width: 100px;
+    padding-left: 40px;
+}

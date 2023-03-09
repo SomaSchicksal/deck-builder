@@ -1,0 +1,60 @@
+.deckcards-content{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+    background-color: white;
+    border-radius:10px;
+    flex-direction: column;
+    gap:10px
+    
+    
+    
+    
+}
+
+.main-content{
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.card{
+    display:flex;
+    
+}
+
+.deck-cards{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:10px
+    
+}
+
+.save-btn{
+    border-radius:5px;
+    background-color: white;
+    padding:5px;
+    color:black;
+    font-weight: bold;
+}
+
+.select-btn{
+    border-radius:5px;
+    background-color: white;
+    padding:5px;
+    color:black;
+    font-weight: bold;
+}
+
+.deck-search{
+    border-radius:5px;
+    background-color: white;
+    padding:5px;
+    color:black
+}
+
+.option{
+    font-family: Roboto;
+    font-weight: bold;
+}

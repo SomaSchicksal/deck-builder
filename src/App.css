@@ -1,0 +1,30 @@
+
+
+
+.main-content{
+    
+    
+}
+
+.App{
+    
+    background-image: url('https://images7.alphacoders.com/661/661986.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  
+
+  font-family: Roboto;
+  
+
+  
+  
+  
+    
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+  }
